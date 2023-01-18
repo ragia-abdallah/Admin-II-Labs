@@ -43,7 +43,10 @@ Lab 3
 
 10. Reconfigure your network card using system-config-network utility to have static IP.
 
-![Lab3-10](https://github.com/ragia-abdallah/Admin-II-Labs/blob/main/AdminII/Lab3-10.png)
+![Lab3-10.1](https://github.com/ragia-abdallah/Admin-II-Labs/blob/main/AdminII/Lab3-10.1.png)
+![Lab3-10.2](https://github.com/ragia-abdallah/Admin-II-Labs/blob/main/AdminII/Lab3-10.2.png)
+![Lab3-10.3](https://github.com/ragia-abdallah/Admin-II-Labs/blob/main/AdminII/Lab3-10.3.png)
+![Lab3-10.4](https://github.com/ragia-abdallah/Admin-II-Labs/blob/main/AdminII/Lab3-10.4.png)
 
 11. Configure your network card to have 3 IPs and check that they are all working using ifconfig command.
 
